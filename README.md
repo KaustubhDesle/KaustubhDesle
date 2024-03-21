@@ -4,6 +4,8 @@
 
 - <b>Password-Strength-Test</b>
   - [To test the strength of your passwords](https://github.com/KaustubhDesle/Password-Strength-Test)
+- <b>Packet Sniffer</b>
+  - [A network analysis tool for capturing, analyzing, and monitoring data packets in real-time.](https://github.com/KaustubhDesle/Packet-Sniffer)
 
 <h2>🖥️ Other Projects:</h2>
 
