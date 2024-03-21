@@ -4,6 +4,9 @@
 
 - <b>Password-Strength-Test</b>
   - [To test the strength of your passwords](https://github.com/KaustubhDesle/Password-Strength-Test)
+
+<h2>🖥️ Other Projects:</h2>
+
 - <b>Hotel Management System</b>
   - [This system teaches you how you can manage a hotel, restaurant, etc.](https://github.com/KaustubhDesle/Hotel_Management_System)
 - <b>Travel-Agency-Chatbot</b>
@@ -23,7 +26,7 @@
 [<img align="left" alt="kaustubhdesle | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" />][instagram]
 
 
-[email]: https://twitter.com/joshmadakor
+[email]: kaustubh.desle0705@gmail.com
 [facebook]: https://www.facebook.com/kaustubh.desle
 [instagram]: https://www.instagram.com/kaustubhdesle/
 [linkedin]: https://www.linkedin.com/in/kaustubh-desle-234167186/
