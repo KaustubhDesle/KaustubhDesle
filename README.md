@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kaustubh! <br/><a href="https://github.com/KaustubhDesle">Programmer</a>, <a href="www.linkedin.com/in/kaustubh-desle-234167186"> Jr. Cybersecurity Analyst</a></h1>
+<h1>Hi, I'm Kaustubh! <br/><a href="https://github.com/KaustubhDesle">Programmer</a>, <a href="https://www.linkedin.com/in/kaustubh-desle-234167186/"> Jr. Cybersecurity Analyst</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
