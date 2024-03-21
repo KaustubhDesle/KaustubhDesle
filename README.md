@@ -13,12 +13,8 @@
   - [This system teaches you how you can manage a hotel, restaurant, etc.](https://github.com/KaustubhDesle/Hotel_Management_System)
 - <b>Travel-Agency-Chatbot</b>
   - [The Travel Agency Chatbot simplifies travel planning with personalized AI assistance.](https://github.com/KaustubhDesle/Travel-Agency-Chatbot-using-NLP)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Major Project(Indian-Sign-Language)</b>
+  - [A project using computer vision to recognize and interpret gestures in Indian Sign Language.](https://github.com/KaustubhDesle/Major-Project-Indian-Sign-Language-)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -28,7 +24,7 @@
 [<img align="left" alt="kaustubhdesle | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" />][instagram]
 
 
-[email]: kaustubh.desle0705@gmail.com
+[email]: mailto:kaustubh.desle0705@gmail.com
 [facebook]: https://www.facebook.com/kaustubh.desle
 [instagram]: https://www.instagram.com/kaustubhdesle/
 [linkedin]: https://www.linkedin.com/in/kaustubh-desle-234167186/
